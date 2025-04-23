@@ -1,9 +1,9 @@
 ## Hi there 👋 I’m Shihab Ashfaq
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/h-m-asfaq-ahmed-shihab)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-(mailto:shihabasfak@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-m-asfaq-ahmed-shihab) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shihabasfak@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio-url.com)
+
 
 Software Engineering student at Swinburne University of Technology 🚀 | Unity & Web Developer 🎮🌐 | AI & Cloud Enthusiast ☁️🤖
 
