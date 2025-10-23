@@ -11,7 +11,7 @@ Software Engineering student at Swinburne University of Technology 🚀 | Unity 
 
 ### 🔥 About Me
 - 🎓 **BE (Hons) Software Engineering** @ Swinburne (’22–’25)
-- - 💼 **Full_Stack Devloper** @ Endeavour Education & Migration Consultant
+- 💼 **Full_Stack Devloper** @ Endeavour Education & Migration Consultant
 - 💼 **Game & Web Dev Intern** @ Whizkid Games
 - 💼 **Sales Associate** @ The Good Guys  
 - 🛠 Strong in **C# · Python · JavaScript · Vue.js · React · Unity**  
