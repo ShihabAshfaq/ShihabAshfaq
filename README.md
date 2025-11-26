@@ -87,9 +87,8 @@ Software Engineering student at Swinburne University of Technology 🚀 | Unity 
 
 ### 📊 GitHub Stats
 
-[![Shihab’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShihabAshfaq&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/ShihabAshfaq)
-
-[![Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShihabAshfaq&layout=compact&theme=tokyonight&cache_seconds=86400)](https://github.com/ShihabAshfaq)
+![Shihab’s GitHub stats](assets/github-stats.svg)
+![Top languages](assets/top-langs.svg)
 
 ---
 
