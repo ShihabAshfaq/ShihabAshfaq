@@ -102,6 +102,6 @@ Software Engineering student at Swinburne University of Technology 🚀 | Unity 
 ---
 
 ### ⚡ Fun Facts
-- 🏎️ Proud owner of a 2012 Toyota Crown Hybrid 🚗  
+- 🏎️ Proud owner of a 2012 Toyota Crown 🚗  
 - 🎮 Gamer at heart—big fan of anime. 
 - ☕️ Fuelled by code and adventure  
