@@ -87,9 +87,8 @@ Software Engineering student at Swinburne University of Technology 🚀 | Unity 
 
 ### 📊 GitHub Stats
 
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabAshfaq&layout=compact&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShihabAshfaq&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabAshfaq&layout=compact&theme=tokyonight)
 
 ---
 
